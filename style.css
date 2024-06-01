@@ -153,19 +153,18 @@ body {
         font-size: 20px;
     }
 
-    .inputfield {
-        
+    .inputfield {    
         height: auto;
     }
 
     .inputfield input {
-        width: 100%;
+        width: 325px;
         font-size: 14px;
         margin-bottom: 10px;
     }
 
     .inputfield button {
-        width: 100%;
+        width: 71px;
         font-size: 18px;
         margin-left: 0;
     }
