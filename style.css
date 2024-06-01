@@ -144,6 +144,7 @@ body {
 
 @media (max-width: 480px) {
     .wrapper {
+        max-width: 273px !important;
         margin: 40px auto;
         padding: 15px;
     }
