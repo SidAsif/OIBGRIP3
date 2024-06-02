@@ -12,7 +12,7 @@ QuickTodo is a simple and efficient web application designed to help you manage 
 
 ## Demo
 
-You can check out a live demo of QuickTodo [here](https://your-username.github.io/QuickTodo/).
+You can check out a live demo of QuickTodo [here](https://sidasif.github.io/Todo_WebApp/).
 
 ## Installation
 
