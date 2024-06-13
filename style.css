@@ -172,7 +172,7 @@ body {
     .inputfield button {
         width: 71px;
         font-size: 18px;
-        margin-left: 0;
+        margin-left: 4px;
     }
 
     .list li {
